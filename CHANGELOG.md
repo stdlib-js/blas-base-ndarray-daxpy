@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`57e6e8b`](https://github.com/stdlib-js/stdlib/commit/57e6e8b95cbf57aa054c836f3b6f46c8892b8d44) - **chore:** propagate `blas/base/ndarray/*` modernization fixes to sibling packages [(#11742)](https://github.com/stdlib-js/stdlib/pull/11742) _(by Philipp Burckhardt)_
 -   [`a130f47`](https://github.com/stdlib-js/stdlib/commit/a130f47df3b27b9412267db960ba60352807d18c) - **bench:** use top-level API _(by Athan Reines)_
 -   [`f550ac9`](https://github.com/stdlib-js/stdlib/commit/f550ac9103bc93eaec89164fc7c5c2e916ae221c) - **docs:** update list _(by Athan Reines)_
 -   [`a51e9f1`](https://github.com/stdlib-js/stdlib/commit/a51e9f13e99edd632e5f87ef186993e20504f4fd) - **docs:** remove import statement _(by Athan Reines)_
