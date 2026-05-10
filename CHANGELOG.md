@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-23)
+## Unreleased (2026-05-10)
 
 <section class="features">
 
@@ -22,6 +22,9 @@
 
 <details>
 
+-   [`bdc1f9b`](https://github.com/stdlib-js/stdlib/commit/bdc1f9beed8120b36f6cb9fae9a5f28c091654f1) - **docs:** add notes _(by Athan Reines)_
+-   [`f5a9f7d`](https://github.com/stdlib-js/stdlib/commit/f5a9f7d31e7d8877e5e3556533382e8e7e02c58e) - **docs:** update descriptions _(by Athan Reines)_
+-   [`be5b88f`](https://github.com/stdlib-js/stdlib/commit/be5b88f6f8b66169d6a849762671816069e2a95c) - **docs:** update copy _(by Athan Reines)_
 -   [`57e6e8b`](https://github.com/stdlib-js/stdlib/commit/57e6e8b95cbf57aa054c836f3b6f46c8892b8d44) - **chore:** propagate `blas/base/ndarray/*` modernization fixes to sibling packages [(#11742)](https://github.com/stdlib-js/stdlib/pull/11742) _(by Philipp Burckhardt)_
 -   [`a130f47`](https://github.com/stdlib-js/stdlib/commit/a130f47df3b27b9412267db960ba60352807d18c) - **bench:** use top-level API _(by Athan Reines)_
 -   [`f550ac9`](https://github.com/stdlib-js/stdlib/commit/f550ac9103bc93eaec89164fc7c5c2e916ae221c) - **docs:** update list _(by Athan Reines)_
